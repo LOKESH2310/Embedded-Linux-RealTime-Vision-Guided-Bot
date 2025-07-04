@@ -9,9 +9,7 @@
  * The watchdog is kicked every 100ms by the sequencer only if all services
  * report successful execution by setting their flags to true.
  *
- * @authors Bhavya Saravanan,
- *          Lokesh Senthil Kumar,
- *          Nalin Saxena
+ * @authors Lokesh Senthil Kumar
  */
 
  #include "watchdog.hpp"

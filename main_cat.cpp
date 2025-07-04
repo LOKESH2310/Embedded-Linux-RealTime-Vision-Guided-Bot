@@ -13,6 +13,7 @@
 bool stop_requested=false;
 
 
+
 void signal_handler(int signum) {
     syslog(LOG_INFO, "Interrupt signal (%d) received. Stopping services...", signum);
     stop_requested = true;

@@ -8,7 +8,7 @@
  *                RIGHT, or STOP, and assigns speed levels depending on the
  *                vertical distance of the laser from the robot.
  *
- * Authors      : Bhavya Saravanan, Lokesh Senthil Kumar, Nalin Saxena
+ * Authors      : Lokesh Senthil Kumar
  ******************************************************************************/
 
  #include "red_laser_service.hpp"

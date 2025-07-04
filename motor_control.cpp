@@ -4,7 +4,7 @@
  *              real-time robot using GPIO and PWM. Interprets
  *              high-level movement commands and actuates motors
  *              accordingly via pigpio and Linux GPIO character device.
- * Author: Lokesh Senthil Kumar, Bhavya Saravanan, Nalin Saxena
+ * Author: Lokesh Senthil Kumar
  ***************************************************************/
 
 #include "motor_control.hpp"

@@ -7,7 +7,6 @@ std::mutex frame_mutex;
 CameraContext cam;
 
 
-
 int init_camera()
 {
 //open the device in a non blocking mode
