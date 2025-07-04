@@ -1,1 +1,2 @@
-# rtes-project
+# RTES
+Spring RTES Course REPO 
