@@ -78,6 +78,8 @@ This project implements a **real-time, laser-guided robotic system** built using
 - `sched.h`, `mlockall` – Real-time scheduling and memory locking
 
 ---
-
-## 📦 Directory Structure
+🙋 Author
+Lokesh S.
+M.S. in Embedded Systems
+Real-Time Robotics | Linux | Vision-Guided Control
 
